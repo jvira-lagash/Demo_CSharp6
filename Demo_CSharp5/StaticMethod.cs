@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Demo_CSharp6
 {
@@ -17,6 +18,17 @@ namespace Demo_CSharp6
         public static void ShowResult(Punto p1, Punto p2, double distance)
         {            
             Console.WriteLine(String.Format("La distancia entre el punto ({0},{1}) y el punto ({2}, {3}) es {4}", p1.X, p1.Y, p2.X, p2.Y, distance));
+        }
+
+        public static List<Punto> FillList()
+        {
+            List<Punto> list = new List<Punto>();
+
+            list.Add(new Punto(1, 3));
+            list.Add(new Punto(2, 4));
+            list.Add(new Punto(4, 6));
+
+            return list;
         }
     }
 }

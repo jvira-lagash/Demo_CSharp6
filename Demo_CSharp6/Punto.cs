@@ -1,7 +1,4 @@
-﻿using static System.Math;
-using static System.Convert;
-
-namespace Demo_CSharp6
+﻿namespace Demo_CSharp6
 {
     class Punto
     {
