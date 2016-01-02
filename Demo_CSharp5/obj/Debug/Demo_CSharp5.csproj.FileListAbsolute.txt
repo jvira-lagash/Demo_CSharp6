@@ -1,0 +1,6 @@
+C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp5\obj\Debug\Demo_CSharp5.csprojResolveAssemblyReference.cache
+C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp5\bin\Debug\Demo_CSharp5.exe.config
+C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp5\bin\Debug\Demo_CSharp5.exe
+C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp5\bin\Debug\Demo_CSharp5.pdb
+C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp5\obj\Debug\Demo_CSharp5.exe
+C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp5\obj\Debug\Demo_CSharp5.pdb

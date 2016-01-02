@@ -1,16 +1,11 @@
-﻿using static System.Math;
-using static System.Convert;
-
-namespace Demo_CSharp6
+﻿namespace Demo_CSharp6
 {
     class Punto
     {
         #region Fields
-
-        //Initializers for auto-properties
-        //Getter-only auto-properties
-        public int X { get; } = 1;
-        public int Y { get; } = 1;
+                
+        public int X { get; set; }
+        public int Y { get; set; }
 
         #endregion
         

@@ -9,12 +9,10 @@ namespace Demo_CSharp6
         {
             Punto p1 = new Punto();
             Punto p2 = new Punto(4,1);
-            
+
+            //Using static
             var distance = Distance(p1,p2);
-
-            string str = $"La distancia entre el punto ({p1.X},{p1.Y}) y el punto ({p2.X}, {p2.Y}) es {distance}";
-
-            WriteLine(str);
+            ShowResult(p1, p2, distance);
 
             ReadLine();
         }

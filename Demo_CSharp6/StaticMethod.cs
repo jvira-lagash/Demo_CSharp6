@@ -1,5 +1,5 @@
-﻿using static System.Math;
-using static System.Convert;
+﻿using static System.Console;
+using static System.Math;
 
 namespace Demo_CSharp6
 {
@@ -14,5 +14,10 @@ namespace Demo_CSharp6
 
             return d;
         }
+
+        //Expression bodies on method-like members
+        //String interpolation
+        public static void ShowResult(Punto p1, Punto p2, double distance) => WriteLine($"La distancia entre el punto ({p1.X},{p1.Y}) y el punto ({p2.X}, {p2.Y}) es {distance}");
+        
     }
 }
