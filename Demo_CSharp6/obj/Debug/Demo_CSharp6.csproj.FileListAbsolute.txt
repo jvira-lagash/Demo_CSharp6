@@ -4,3 +4,6 @@ C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\bin\Debug\Demo_CShar
 C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\obj\Debug\Demo_CSharp6.csprojResolveAssemblyReference.cache
 C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\obj\Debug\Demo_CSharp6.exe
 C:\Users\JobUser\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\obj\Debug\Demo_CSharp6.pdb
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\bin\Debug\Demo_CSharp6.exe.config
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\obj\Debug\Demo_CSharp6.exe
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\Demo_CSharp6\obj\Debug\Demo_CSharp6.pdb

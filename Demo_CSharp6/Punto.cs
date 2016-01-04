@@ -2,10 +2,8 @@
 {
     class Punto
     {
-        #region Fields
+        #region Initializers for auto-properties & Getter-only auto-properties
 
-        //Initializers for auto-properties
-        //Getter-only auto-properties
         public int X { get; } = 1;
         public int Y { get; } = 1;
 
