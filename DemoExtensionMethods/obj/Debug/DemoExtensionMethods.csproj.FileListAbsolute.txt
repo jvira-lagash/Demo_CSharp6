@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\DemoExtensionMethods\bin\Debug\DemoExtensionMethods.exe.config
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\DemoExtensionMethods\bin\Debug\DemoExtensionMethods.exe
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\DemoExtensionMethods\bin\Debug\DemoExtensionMethods.pdb
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.exe
+C:\Users\Administrator\Documents\GitHub\Demo_CSharp6\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.pdb
